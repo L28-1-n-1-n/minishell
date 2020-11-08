@@ -15,5 +15,5 @@ Recreation of the UNIX shell command line interpreter in C using only the follow
 * exit
 
 ### Installation
-make && ./minishell
+```make && ./minishell```
 
