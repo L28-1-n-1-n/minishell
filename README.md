@@ -1,5 +1,4 @@
 # minishell
-Recreation of the UNIX shell
 
 ### About
 Recreation of the UNIX shell command line interpreter in C using only the following functions:
